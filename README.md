@@ -6,7 +6,7 @@
 - AngularJS
 - JSONs
 
-## Isuue encountered
+## Issue encountered
 - Backend tech is very complicated to me
 - The new technology because I preffered react in development
 
